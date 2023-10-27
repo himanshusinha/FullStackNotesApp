@@ -1,0 +1,22 @@
+{
+  "name": "notes_serrver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "install": "^0.13.0",
+    "mongoose": "^7.6.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1",
+    "npm": "^10.2.1"
+  }
+}
